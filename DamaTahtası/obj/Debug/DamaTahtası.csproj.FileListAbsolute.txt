@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\DamaTahtası\DamaTahtası\bin\Debug\DamaTahtası.exe.config
+C:\Users\HP\source\repos\DamaTahtası\DamaTahtası\bin\Debug\DamaTahtası.exe
+C:\Users\HP\source\repos\DamaTahtası\DamaTahtası\bin\Debug\DamaTahtası.pdb
+C:\Users\HP\source\repos\DamaTahtası\DamaTahtası\obj\Debug\DamaTahtası.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\DamaTahtası\DamaTahtası\obj\Debug\DamaTahtası.Form1.resources
+C:\Users\HP\source\repos\DamaTahtası\DamaTahtası\obj\Debug\DamaTahtası.Properties.Resources.resources
+C:\Users\HP\source\repos\DamaTahtası\DamaTahtası\obj\Debug\DamaTahtası.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\DamaTahtası\DamaTahtası\obj\Debug\DamaTahtası.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DamaTahtası\DamaTahtası\obj\Debug\DamaTahtası.exe
+C:\Users\HP\source\repos\DamaTahtası\DamaTahtası\obj\Debug\DamaTahtası.pdb
